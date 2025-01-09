@@ -18,6 +18,7 @@ You can follow the instructions on the [Supernote website](https://support.super
 
 + Click on the Send to E-Reader extension icon in the top right corner of your browser.
 + Input the URL you copied in step 3.
+  + **Note**: Please make sure the URL includes the `Folder`。 For example, `https://192.168.124.15/INBOX`.
 + Click on the "Send" button.
 
 The web page will turn into an EPUB file and be sent to your e-reader.
